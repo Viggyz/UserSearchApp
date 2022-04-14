@@ -54,7 +54,6 @@ function App() {
           display: "flex",
           alignItems: "center",
           flexDirection: "column",
-          // bgcolor: "lightblue"
         }}
       >
         <Typography variant="h2">GitHub User Search</Typography>
