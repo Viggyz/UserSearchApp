@@ -6,9 +6,9 @@ Redis cache server running in the background
 
 ## Installation
 
-- cd client && npm install
-- cd ../expressserv && npm install
-- npm run prod
+    cd client && npm install
+    cd ../expressserv && npm install
+    npm run prod
 
 ## Express Server
 
