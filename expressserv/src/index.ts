@@ -17,7 +17,7 @@ const startUp = async () => {
 }
 //sudo service redis-server start
 
-app.listen(8000, () => {
+app.listen(process.env.PORT || 8000, () => {
     console.log('App listening on 8000');
 });
 
